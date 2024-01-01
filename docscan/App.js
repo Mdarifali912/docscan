@@ -1,4 +1,5 @@
-import React, { useState } from "react";
+import React from "react";
+import { useState } from "react";
 import { Image, Text, View, TouchableOpacity, Button } from "react-native";
 import DocumentScanner from "react-native-document-scanner-plugin";
 
