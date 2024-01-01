@@ -30,7 +30,7 @@ const App = () => {
       >
         Scan Anything, Anytime, Anywhere
 
-        Document Scanner and PDF Creator app – an Indian scanner app that provides you with more advanced scan options compared to any other apps on the store.
+        Document Scanner and PDF Creator app – an Indian scanner app that pr compared to any other apps on the store.
       </Text>
       <Button
         onPress={scanDocument()}
